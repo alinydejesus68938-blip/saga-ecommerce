@@ -58,5 +58,8 @@ A arquitetura prevê:
 - `docs/decisoes-arquiteturais.md`: decisões, riscos e estratégias de resiliência.
 
 ## 7. Objetivo
+## Documentação
+
+- [Decisões arquiteturais do projeto Saga](docs/decisoes-arquiteturais.md)
 
 Demonstrar como coordenar transações distribuídas em microsserviços, mantendo consistência eventual e tratando falhas por meio de transações compensatórias.
