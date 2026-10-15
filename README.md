@@ -63,4 +63,12 @@ A arquitetura prevê:
 
 - [Decisões arquiteturais do projeto Saga](docs/decisoes-arquiteturais.md)
 
+
+### Diagramas da arquitetura
+
+- [Visão geral da arquitetura Saga](diagrams/saga-architecture-overview.md)
+- [Fluxo de sucesso da compra](diagrams/sequence-success-flow.md)
+- [Fluxo de falha e compensação](diagrams/sequence-compensation-flow.md)
+- [Fluxo completo da transação Saga](diagrams/fluxo-saga.md)
+
 Demonstrar como coordenar transações distribuídas em microsserviços, mantendo consistência eventual e tratando falhas por meio de transações compensatórias.
