@@ -60,6 +60,7 @@ A arquitetura prevê:
 
 ## 7. Objetivo
 Demonstrar como coordenar transações distribuídas em microsserviços, mantendo consistência eventual e tratando falhas por meio de transações compensatórias.
+
 ## Documentação
 
 - [Decisões arquiteturais do projeto Saga](docs/decisoes-arquiteturais.md)
@@ -72,4 +73,4 @@ Demonstrar como coordenar transações distribuídas em microsserviços, mantend
 - [Fluxo de falha e compensação](diagrams/sequence-compensation-flow.md)
 - [Fluxo completo da transação Saga](diagrams/fluxo-saga.md)
 
-Demonstrar como coordenar transações distribuídas em microsserviços, mantendo consistência eventual e tratando falhas por meio de transações compensatórias.
+
