@@ -56,6 +56,7 @@ A arquitetura prevê:
 
 - `diagrams/`: diagramas da arquitetura e dos fluxos.
 - `docs/decisoes-arquiteturais.md`: decisões, riscos e estratégias de resiliência.
+-  `diagrams/fluxo-saga.md`: diagrama do fluxo da transação Saga, incluindo sucesso, falhas e compensações.
 
 ## 7. Objetivo
 ## Documentação
