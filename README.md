@@ -54,9 +54,9 @@ A arquitetura prevê:
 
 ## 6. Estrutura dos entregáveis
 
-- `diagrams/`: diagramas da arquitetura e dos fluxos.
-- `docs/decisoes-arquiteturais.md`: decisões, riscos e estratégias de resiliência.
--  `diagrams/fluxo-saga.md`: diagrama do fluxo da transação Saga, incluindo sucesso, falhas e compensações.
+- `diagrams/saga-architecture-overview.png`: imagem da arquitetura geral da Saga.
+- `diagrams/sequence-success-flow.png`: imagem da sequência de sucesso.
+- `diagrams/sequence-compensation-flow.png`: imagem da sequência de falha e compensação.
 
 ## 7. Objetivo
 Demonstrar como coordenar transações distribuídas em microsserviços, mantendo consistência eventual e tratando falhas por meio de transações compensatórias.
