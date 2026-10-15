@@ -59,6 +59,7 @@ A arquitetura prevê:
 -  `diagrams/fluxo-saga.md`: diagrama do fluxo da transação Saga, incluindo sucesso, falhas e compensações.
 
 ## 7. Objetivo
+Demonstrar como coordenar transações distribuídas em microsserviços, mantendo consistência eventual e tratando falhas por meio de transações compensatórias.
 ## Documentação
 
 - [Decisões arquiteturais do projeto Saga](docs/decisoes-arquiteturais.md)
